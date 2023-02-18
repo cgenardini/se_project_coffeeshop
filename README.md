@@ -1,4 +1,4 @@
-# Practicum Coffee Shop
+# Cassandra's Coffee Cafe
 
 This is the second project of the Web Development program at Practicum. It was created using HTML and CSS, based on the design brief.
 
@@ -14,3 +14,5 @@ This is the second project of the Web Development program at Practicum. It was c
 ## Plan on improving the project
 
 Add your ideas here :)
+
+Adding an order-ahead form feature under the menu section.
